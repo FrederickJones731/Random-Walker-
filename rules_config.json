@@ -1,0 +1,17 @@
+{
+    "infinite_walker_length": 100,
+
+    "portal_num": 4,
+    "obstacle_num": 3,
+
+    "cop_robber_ratio": 0.4,
+    "cops_game_length": 30,
+
+    "coin_win_val": 10,
+    "init_coin_val": 80,
+    "coin_add_interval": 2,
+    "coins_per_interval": 10,
+
+    "survival_add_interval": 1,
+    "obstacles_per_interval": 8
+}
